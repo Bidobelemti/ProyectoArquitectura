@@ -1,0 +1,4 @@
+datetime,temperature,humidity,pressure,weather
+2024-08-13 22:54:06,18.67,58,1012,clear sky
+2024-08-13 22:57:34,18.67,58,1012,clear sky
+2024-08-13 23:04:37,18.52,59,1012,overcast clouds
